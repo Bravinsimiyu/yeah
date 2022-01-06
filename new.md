@@ -1,6 +1,6 @@
 ### Introduction
 
-API links allow you to acquire content from other websites and display it wherever you like. In this tutorial, you will learn how to create a javaScript joke generator using API links which is an excellent project for novice developers who may want to rapidly make plenty of humorous jokes.
+this is a new API links allow you to acquire content from other websites and display it wherever you like. In this tutorial, you will learn how to create a javaScript joke generator using API links which is an excellent project for novice developers who may want to rapidly make plenty of humorous jokes.
 
 #### Prerequesites
 
